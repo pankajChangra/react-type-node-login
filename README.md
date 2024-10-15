@@ -1,2 +1,2 @@
-# react-type-node-login
-React js typescript and node js login 
+# react-type-login
+React js and typescript login and private route with redux
